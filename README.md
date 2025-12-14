@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working with Drupal, NodeJs Express, React, MySQL, DevOps and AI LLM module
+I'm currently working as Full stack web Developer. Experienced with over 8 years in the industry, specializing in building robust and dynamic websites and web applications. Skilled in Drupal, NodeJs, Express, React, MySQL, HTML, CSS, Bootstrap, DevOps and AI LLM modules.
+
+Currently working at a leading multinational corporation, I have a proven track record of delivering high-quality, scalable, and efficient web solutions. My passion for web development drives me to stay updated with the latest industry trends and technologies, ensuring that my projects are always at the cutting edge of innovation.
 
 
 ## 🌐 Socials:
